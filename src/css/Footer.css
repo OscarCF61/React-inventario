@@ -1,0 +1,27 @@
+
+.footer-distributed {
+    background-color: #292c2f;
+    box-shadow: rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    padding: 1% 0 0 0;
+    bottom: 0;
+    position: absolute;
+    min-width: 280px;
+    height: auto;
+    margin-top: 8%;
+  }
+  
+  .footer-img{
+    margin: 1px;
+    background-color: rgb(255, 255, 255); 
+    width: 10%; 
+    width: 10%;
+    height: 40px;
+    border-radius: 5ex;
+  }
+  .footer-img img{
+    width: 110px;
+    height: 40px;
+  }
